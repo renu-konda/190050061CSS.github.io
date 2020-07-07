@@ -9,6 +9,9 @@ h1{
 	width: 500px;
 	margin:auto;
 	padding: 4px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
 }
 h2, h3{
 	display: inline;
