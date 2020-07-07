@@ -4,6 +4,7 @@ body{
 	background-size: auto;
 	font-size: 25px;
 	width:100%;
+	box-sizing: border-box;
 }
 h1{
 	text-align: center;
