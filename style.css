@@ -1,6 +1,7 @@
 body{
 	background-image: linear-gradient(to right, #80ff80, white);
 	font-size: 25px;
+	width:100%;
 }
 h1{
 	text-align: center;
