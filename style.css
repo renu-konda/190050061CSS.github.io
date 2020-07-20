@@ -4,8 +4,6 @@ body{
 	background-size: auto;
 	font-size: 25px;
 	width:100%;
-	display:flex;
-	justify-content:center;
 	box-sizing: border-box;
 }
 h1{
