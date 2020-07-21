@@ -1,9 +1,7 @@
 body{
 	background-image:linear-gradient(to right,#99ff99,#ccffcc);
 	background-repeat:no-repeat;
-	background-size: auto;
 	font-size: 25px;
-	box-sizing: border-box;
 }
 h1{
 	text-align: center;
